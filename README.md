@@ -1,4 +1,4 @@
-# angiewtcc.github.io
+# angelicahlwtcc.github.io
  1.Angelica Lagunas & ahilariolagunas@my.waketech.edu
 2. Not exactly sure what I am supposed to be describing but I will say that I will be using my Git Hub account for future projects,
 and I hope to not have any issues with GitHub.
